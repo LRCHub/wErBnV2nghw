@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ホームシックナイトホームシックブルース",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-09T14:38:43.654752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホームシックナイトホームシックブルース",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/01_ホームシックナイトホームシックブルース_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホームシックナイトホームシックブルース",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_ホームシックナイトホームシックブルース_カネコアヤノ.txt"
+    }
+  ]
+}
